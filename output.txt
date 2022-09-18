@@ -1,0 +1,192 @@
+Welcome to the Casino!
+
+
+--------------------------
+Game
+--------------------------
+
+Total of chips: 100
+Bet: 40
+
+--------------------------
+
+Dealer
+(Two of Spades) (### ## ###)
+
+Player
+(Jack of Diamonds) (Six of Spades)
+Points: 16
+
+Hit or stand?
+1 - Hit
+2 - Stand
+>> 1
+
+Busted!
+
+=======================
+You lose
+=======================
+
+Dealer
+(Two of Spades) (Two of Clubs)
+Points: 4
+
+Player
+(Jack of Diamonds) (Six of Spades) (Ten of Clubs)
+Points: 26
+
+Total of chips: 60.0
+
+Play again?
+1 - Yes
+2 - No
+>> 1
+
+--------------------------
+Game
+--------------------------
+
+Total of chips: 60.0
+Bet: 30
+
+--------------------------
+
+Dealer
+(King of Spades) (### ## ###)
+
+Player
+(Ten of Hearts) (Eight of Spades)
+Points: 18
+
+Hit or stand?
+1 - Hit
+2 - Stand
+>> 2
+
+=======================
+Tie
+=======================
+
+Dealer
+(King of Spades) (Five of Clubs) (Three of Hearts)
+Points: 18
+
+Player
+(Ten of Hearts) (Eight of Spades)
+Points: 18
+
+Total of chips: 60.0
+
+Play again?
+1 - Yes
+2 - No
+>> 1
+
+--------------------------
+Game
+--------------------------
+
+Total of chips: 60.0
+Bet: 40
+
+--------------------------
+
+Dealer
+(Five of Hearts) (### ## ###)
+
+Player
+(Seven of Diamonds) (Five of Spades)
+Points: 12
+
+Hit or stand?
+1 - Hit
+2 - Stand
+>> 1
+
+--------------------------
+
+Dealer
+(Five of Hearts) (### ## ###)
+
+Player
+(Seven of Diamonds) (Five of Spades) (Eight of Hearts)
+Points: 20
+
+Hit or stand?
+1 - Hit
+2 - Stand
+>> 2
+
+=======================
+You Won!
+=======================
+
+Dealer
+(Five of Hearts) (Ace of Hearts) (Three of Clubs)
+Points: 19
+
+Player
+(Seven of Diamonds) (Five of Spades) (Eight of Hearts)
+Points: 20
+
+Total of chips: 100.0
+
+Play again?
+1 - Yes
+2 - No
+>> 1
+
+--------------------------
+Game
+--------------------------
+
+Total of chips: 100.0
+Bet: 100
+
+--------------------------
+
+Dealer
+(Four of Hearts) (### ## ###)
+
+Player
+(Three of Diamonds) (Jack of Spades)
+Points: 13
+
+Hit or stand?
+1 - Hit
+2 - Stand
+>> 1
+
+--------------------------
+
+Dealer
+(Four of Hearts) (### ## ###)
+
+Player
+(Three of Diamonds) (Jack of Spades) (Four of Clubs)
+Points: 17
+
+Hit or stand?
+1 - Hit
+2 - Stand
+>> 1
+
+Busted!
+
+=======================
+You lose
+=======================
+
+Dealer
+(Four of Hearts) (Nine of Diamonds)
+Points: 13
+
+Player
+(Three of Diamonds) (Jack of Spades) (Four of Clubs) (King of Clubs)
+Points: 27
+
+Total of chips: 0.0
+You lost all of your chips.
+
+Bye
