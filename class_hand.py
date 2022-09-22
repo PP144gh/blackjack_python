@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 26 13:16:12 2020
-
-@author: lara-
-"""
 
 from class_deck import Deck
 
