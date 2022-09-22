@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 26 13:23:11 2020
 
-@author: lara-
-"""
 #Imports:
 from class_deck import Deck
 from class_chips import Chips
