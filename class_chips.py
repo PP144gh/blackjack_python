@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 26 13:08:07 2020
-
-@author: lara-
-"""
 
 class Chips:
     
