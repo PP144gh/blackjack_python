@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 26 12:59:56 2020
-
-@author: lara-
-"""
-
 
 class Card():
     def __init__(self, suit, rank, value):
